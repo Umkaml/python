@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-к
+
 regions = 'dnipro', 'kyiv', 'odesa', 'kharkiv', 'lviv', 'zaporizhia', 'vinnytsia', 'donetsk', 'ivano-frankivsk', 'sumy', 'poltava', 'ternopil', 'kharkiv', 'kherson', 'khmelnitsk', 'cherkasy', 'chernihiv'
 
 def parser_job_sites():
